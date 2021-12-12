@@ -361,7 +361,8 @@ ul {
   .hide-sm {
     display: none;
   }
-    .tabs .container {
+  
+  .tabs .container {
     min-width: 95%;
   }
 
@@ -371,7 +372,7 @@ ul {
   }
 
   .footer {
-    max-width: 90%;
+    min-width: 90%;
   }
 
   .footer .footer-cols ul {
